@@ -1,0 +1,20 @@
+{
+  "name": "@webwaka/tissue-validate",
+  "version": "0.1.0",
+  "description": "Validation tissue that coordinates cross-cell validation rules, schema enforcement, and invariant checking with offline-first validation caching.",
+  "main": "src/entity.ts",
+  "types": "src/types.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --coverage",
+    "lint": "eslint src/"
+  },
+  "keywords": [
+    "webwaka",
+    "tissue",
+    "validate",
+    "offline-first",
+    "nigeria-first"
+  ],
+  "license": "UNLICENSED"
+}
